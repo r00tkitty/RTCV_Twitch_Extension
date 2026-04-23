@@ -716,7 +716,7 @@ Command: REBLAST -­> Reapplies the last corruption again
                                     }
                                     break;
                                 }
-                            case "MAXUNITS":
+                           /* case "MAXUNITS":
                                 {
                                     if (PluginForm.pf.rbBlastControl.Checked)
                                         break;
@@ -728,7 +728,7 @@ Command: REBLAST -­> Reapplies the last corruption again
                                         //-----
                                     }
                                     break;
-                                }
+                                } */
                             case "SELECT":
                                 {
                                     if (PluginForm.pf.rbBlastControl.Checked)
